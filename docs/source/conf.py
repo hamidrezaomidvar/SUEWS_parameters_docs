@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'SUEWS_parameters'
+project = 'SUEWS Parameters'
 copyright = '2020, Prof. Sue Grimmond, Dr. Hamidreza Omidvar & Dr. Ting Sun'
 author = 'Prof. Sue Grimmond, Dr. Hamidreza Omidvar & Dr. Ting Sun'
 
