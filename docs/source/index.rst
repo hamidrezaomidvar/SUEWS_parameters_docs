@@ -17,7 +17,7 @@ SUEWS Parameters
   :numbered:
   :maxdepth: 1
 
-  intro
+  overview/1-Introduction.ipynb
 
 
 .. toctree::
@@ -25,10 +25,10 @@ SUEWS Parameters
   :numbered:
   :maxdepth: 1
 
-  LAI_params
-  Albedo_params
-  gs_params
-  roughness_params
+  steps/LAI.ipynb
+  steps/albedo.ipynb
+  steps/conductance.ipynb
+  steps/roughness.ipynb
 
 
 .. toctree::
