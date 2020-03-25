@@ -3,8 +3,8 @@ SUEWS Parameters
 ==================================================
 
 
-.. image:: https://readthedocs.org/projects/blm/badge/?version=latest
-  :target: https://blm.readthedocs.io/en/latest/?badge=latest
+.. image:: https://readthedocs.org/projects/suews-parameters-docs/badge/?version=latest
+  :target: https://suews-parameters-docs.readthedocs.io/en/latest/?badge=latest
   :alt: Documentation Status
 
 .. .. warning::
