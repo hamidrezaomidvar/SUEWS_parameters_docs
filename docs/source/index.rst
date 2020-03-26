@@ -29,6 +29,7 @@ SUEWS Parameters
   steps/albedo.ipynb
   steps/conductance.ipynb
   steps/roughness.ipynb
+  steps/roughness-SuPy.ipynb
 
 
 .. toctree::
