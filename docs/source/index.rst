@@ -31,19 +31,3 @@ SUEWS Parameters
   steps/roughness.ipynb
   steps/roughness-SuPy.ipynb
 
-
-.. toctree::
-  :caption: Acknowledgements
-  :numbered:
-  :maxdepth: 1
-
-  acknowledgments
-
-
-
-.. toctree::
-  :caption: References
-  :numbered:
-  :maxdepth: 1
-
-  refs

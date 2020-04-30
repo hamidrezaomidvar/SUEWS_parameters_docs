@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'SUEWS Parameters'
-copyright = '2020, Prof. Sue Grimmond, Dr. Hamidreza Omidvar & Dr. Ting Sun'
-author = 'Prof. Sue Grimmond, Dr. Hamidreza Omidvar & Dr. Ting Sun'
+copyright = '2020, Dr. Hamidreza Omidvar, Dr. Ting Sun & Prof. Sue Grimmond'
+author = 'Dr. Hamidreza Omidvar, Dr. Ting Sun & Prof. Sue Grimmond'
 
 # The full version, including alpha/beta/rc tags
 release = '2020.1'
