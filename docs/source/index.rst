@@ -27,7 +27,6 @@ SUEWS Parameters
 
   steps/LAI.ipynb
   steps/albedo.ipynb
-  steps/conductance.ipynb
   steps/roughness.ipynb
   steps/roughness-SuPy.ipynb
-
+  steps/conductance.ipynb
