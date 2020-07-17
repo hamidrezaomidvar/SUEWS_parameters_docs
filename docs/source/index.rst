@@ -7,9 +7,6 @@ SUEWS Parameters
   :target: https://suews-parameters-docs.readthedocs.io/en/latest/?badge=latest
   :alt: Documentation Status
 
-.. .. warning::
-
-..    This site is under construction: the information on this site might NOT be accurate.
 
 
 .. toctree::
@@ -17,7 +14,6 @@ SUEWS Parameters
   :numbered:
   :maxdepth: 1
 
-  overview/Background
   overview/1-Introduction.ipynb
 
 
@@ -31,8 +27,3 @@ SUEWS Parameters
   steps/roughness.ipynb
   steps/roughness-SuPy.ipynb
   steps/conductance.ipynb
-<<<<<<< HEAD
-
-
-=======
->>>>>>> e2dac8a53fd4560ddf2098fa05c11c3dd99fb408
